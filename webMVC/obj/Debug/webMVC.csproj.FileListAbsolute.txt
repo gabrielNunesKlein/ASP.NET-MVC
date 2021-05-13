@@ -84,3 +84,5 @@ C:\Users\gabri\Desktop\C#\webMVC\webMVC\obj\Debug\webMVC.csproj.CoreCompileInput
 C:\Users\gabri\Desktop\C#\webMVC\webMVC\obj\Debug\webMVC.csproj.CopyComplete
 C:\Users\gabri\Desktop\C#\webMVC\webMVC\obj\Debug\webMVC.dll
 C:\Users\gabri\Desktop\C#\webMVC\webMVC\obj\Debug\webMVC.pdb
+C:\Users\gabri\Desktop\C#\webMVC\webMVC\bin\Buiness.dll
+C:\Users\gabri\Desktop\C#\webMVC\webMVC\bin\Buiness.pdb
